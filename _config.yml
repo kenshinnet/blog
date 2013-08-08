@@ -1,5 +1,5 @@
 baseurl: /blog
-name: FixTeam主页
+name: KenShin的Blog
 markdown: redcarpet
 safe: true
 lsi: false
