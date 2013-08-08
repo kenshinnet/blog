@@ -4,13 +4,13 @@ layout: page
 comments: no
 ---
 
-王雨，代码搬砖工一只。
+KenShin的Blog
 
 ----
 
 ###联系方式：        
 
-个人邮箱: [demonrain@vip.qq.com](mailto:demonrain@vip.qq.com)        
-腾讯微博: [Demonrain](http://t.qq.com/demonrain)         
-github  : [Demonrain](https://github.com/demonrain)  
+个人邮箱: [kenshin.net@gmail.com](mailto:kenshin.net@gmail.com)        
+腾讯微博: [kenshin](http://t.qq.com/kenshinnan)         
+github  : [kenshin](https://github.com/kenshinnet)  
 
